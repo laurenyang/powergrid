@@ -1,0 +1,4 @@
+demand vs time data:	http://www.caiso.com/TodaysOutlook/Pages/default.aspx
+consumer electricity pricing:	https://www.pge.com/tariffs/ResTOUCurrent.xlsx
+cost of producing renewable energy:	https://www.irena.org/publications/Download?sUqtu293KYP+KnSWrR3YYeKAMAqsDmS8t8l5SFgc6ywLb42PdfYqpl5eXQ6g61y9jLKnuXbcR47mQbTbKe/RUg==-IsM6hZRqrJU=
+power generation:	http://www.caiso.com/TodaysOutlook/Pages/supply.aspx
